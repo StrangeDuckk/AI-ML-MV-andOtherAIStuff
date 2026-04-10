@@ -9,7 +9,9 @@ Używane biblioteki:
     - numpy,
     - matplotlib,
     - sklearn,
-    - pandas
+    - pandas,
+    - keras,
+    - tensorflow
 
 
 ---
@@ -27,3 +29,11 @@ Logistic Regression, Decision Trees, Random Forest, SVM & Ensemble
 Projekt przedstawia kompleksowe porównanie różnych metod klasyfikacji 
 binarnej na syntetycznym zbiorze danych, 
 wraz z wizualizacją granic decyzyjnych oraz analizą jakości modeli.
+
+---
+## Rozpoznawanie obrazów – CIFAR-10 (CNN)
+Deep Learning, Convolutional Neural Networks, 
+Keras, TensorFlow
+
+Projekt przedstawia implementację oraz trening konwolucyjnej 
+sieci neuronowej (CNN) do klasyfikacji obrazów ze zbioru CIFAR-10.
