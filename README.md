@@ -12,7 +12,11 @@ Używane biblioteki:
     - pandas,
     - keras,
     - tensorflow,
-    - cv2
+    - cv2,
+    - PyTorch
+    - faiss,
+    - transformers,
+    - sentence_transformers
 
 
 ---
@@ -52,3 +56,12 @@ Computer Vision, OpenCV, HSV Segmentation
 
 Projekt przedstawia system do śledzenia obiektu (np. piłki) 
 w obrazie i nagraniu wideo z wykorzystaniem filtracji koloru w przestrzeni HSV.
+
+---
+## Retrieval-Augmented Generation (RAG)
+LLM, Qwen, Semantic Search, NLP
+
+Projekt przedstawia implementację systemu 
+RAG (Retrieval-Augmented Generation), 
+który łączy model językowy (LLM) z wyszukiwaniem wiedzy w dokumentach, 
+umożliwiając generowanie bardziej trafnych i kontekstowych odpowiedzi.
