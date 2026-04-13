@@ -45,3 +45,10 @@ Computer Vision, OpenCV, Hough Transform
 
 Projekt przedstawia system do automatycznego wykrywania monet 
 na obrazach oraz określania ich wartości i położenia względem tacki.
+
+---
+## Śledzenie obiektu w wideo (Ball Tracking)
+Computer Vision, OpenCV, HSV Segmentation
+
+Projekt przedstawia system do śledzenia obiektu (np. piłki) 
+w obrazie i nagraniu wideo z wykorzystaniem filtracji koloru w przestrzeni HSV.
