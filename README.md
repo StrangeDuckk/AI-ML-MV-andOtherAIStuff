@@ -37,3 +37,10 @@ Keras, TensorFlow
 
 Projekt przedstawia implementację oraz trening konwolucyjnej 
 sieci neuronowej (CNN) do klasyfikacji obrazów ze zbioru CIFAR-10.
+
+---
+## Detekcja monet na obrazach
+Computer Vision, OpenCV, Hough Transform
+
+Projekt przedstawia system do automatycznego wykrywania monet 
+na obrazach oraz określania ich wartości i położenia względem tacki.
