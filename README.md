@@ -11,7 +11,8 @@ Używane biblioteki:
     - sklearn,
     - pandas,
     - keras,
-    - tensorflow
+    - tensorflow,
+    - cv2
 
 
 ---
